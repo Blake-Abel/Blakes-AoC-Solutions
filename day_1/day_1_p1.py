@@ -1,4 +1,4 @@
-with open("day_1\day_1.in") as file_input:
+with open("day_1/day_1.in") as file_input:
     data = file_input.read()
 
 total_sum = 0
